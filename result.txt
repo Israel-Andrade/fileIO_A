@@ -1,0 +1,7 @@
+The total words in the gba.txt file is 271
+Average characters per word: 4
+7 words of length 1
+50 words of length 2
+60 words of length 3
+58 words of length 4
+96 words of length 11 or longer
